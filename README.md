@@ -1,1 +1,1 @@
-# parametrized-tests-with-boy-notifications
+# parametrized-tests-with-bot-notifications
